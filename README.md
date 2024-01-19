@@ -1,3 +1,3 @@
 # git-practice
 this is my first git
-author -riya jaiswal
+author -riya jaiswal by ria
